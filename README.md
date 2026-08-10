@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prateek+T+P+👋;Fullstack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prateek+T+P+👋;Fullstack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A passionate developer from India building intelligent and scalable applications.</h3>
