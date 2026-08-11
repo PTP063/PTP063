@@ -47,12 +47,5 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PTP063&show_icons=true&theme=radical&hide_border=true" alt="PTP063's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTP063&theme=radical&hide_border=true" alt="PTP063's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
