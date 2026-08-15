@@ -59,9 +59,3 @@ An asynchronous, multi-agent contract due-diligence pipeline engineered with raw
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PTP063&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=radical" alt="Top Languages" />
-</p>
