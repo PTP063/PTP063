@@ -12,16 +12,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### [Veritas-Graph](https://github.com/PTP063/veritas-graph)
-**Deterministic OOXML Redlining Engine**
-> Production-grade legal due-diligence engine. Raw Python, asyncio, lxml. Zero LangChain.
-
-An asynchronous, multi-agent contract due-diligence pipeline engineered with raw Python, `asyncio`, and `lxml`. Built to bypass brittle LLM chat wrappers and output native Microsoft Word Tracked Changes (`.docx`) with verified text provenance and zero inline formatting corruption.
-
----
-
 ## 🛠️ Languages & Tools
 
 ### Frontend
