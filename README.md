@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1A3C5E&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Prateek+T+P+👋;Backend+Developer+%26+Full-Stack+Engineer;Building+Production-Grade+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A3C5E,2496ED,009688&height=180&section=header&text=Prateek%20T%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=009688&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Prateek+T+P+👋;Backend+Developer+%26+Full-Stack+Engineer;Building+Scalable,+Production-Grade+Systems" alt="Typing SVG" />
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 </div>
 
 <h3 align="center">📍 Bengaluru, India | Final Year @ JSSATEB | Open to Internships & Full-Time Roles</h3>
@@ -16,7 +20,9 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%" />
+</p>
 
 ## 🎯 About Me
 
@@ -81,31 +87,15 @@ I'm a **backend and full-stack engineer** passionate about building **scalable, 
 
 ---
 
-## 📁 Projects
-
-I'm actively building production-grade backend systems. My focus is on:
-
-- **Scalable APIs** with FastAPI, Node.js, and Express.js
-- **Database design** and optimization with PostgreSQL and MongoDB
-- **System architecture** emphasizing reliability, concurrency, and performance
-- **Dockerized deployments** for consistency across environments
-
-Check out my [GitHub repositories](https://github.com/PTP063) for code samples and ongoing work.
-
----
-
 ## 🏆 Achievements
 
-**🥉 3rd Place — College Coding Competition (2024)**  
-Solved 5 algorithmic problems under timed constraints using Data Structures and Algorithms (DSA), ranking in the top 3 among 100+ participants.
+**🥉 3rd Place — College Coding Competition (2024)** Solved 5 algorithmic problems under timed constraints using Data Structures and Algorithms (DSA), ranking in the top 3 among 100+ participants.
 
-**🎓 Core Member — GDG on Campus, JSSATEB (2023–Present)**  
-- Organised 3 technical workshops for 80+ students
+**🎓 Core Member — GDG on Campus, JSSATEB (2023–Present)** - Organised 3 technical workshops for 80+ students
 - Represented the chapter at 2 inter-college hackathons
 - Built community around open-source and modern development practices
 
-**💻 Open-Source Contributor (2023–Present)**  
-Contributed bug fixes, features, and documentation to 4+ public GitHub repositories via pull requests and code review.
+**💻 Open-Source Contributor (2023–Present)** Contributed bug fixes, features, and documentation to 4+ public GitHub repositories via pull requests and code review.
 
 ---
 
@@ -115,14 +105,23 @@ Contributed bug fixes, features, and documentation to 4+ public GitHub repositor
   <img src="https://github-readme-stats.vercel.app/api?username=PTP063&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTP063&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Information Science and Engineering**  
-JSS Academy of Technical Education, Bengaluru, Karnataka  
+**Bachelor of Engineering — Information Science and Engineering** JSS Academy of Technical Education, Bengaluru, Karnataka  
 Expected May 2027 | CGPA: 8.4 / 10
 
 **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks, Object-Oriented Programming, Information Security, System Design
@@ -153,5 +152,5 @@ I'm always eager to discuss backend engineering, system design, or interesting t
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PTP063&color=blueviolet&style=flat-square" alt="Profile Views" />
   <br/>
-  <b>Happy Coding! 🚀</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A3C5E,2496ED,009688&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
