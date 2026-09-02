@@ -98,25 +98,25 @@ I'm a **backend and full-stack engineer** passionate about building **scalable, 
 **💻 Open-Source Contributor (2023–Present)** Contributed bug fixes, features, and documentation to 4+ public GitHub repositories via pull requests and code review.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PTP063&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTP063&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/PTP063/PTP063/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PTP063&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=38444d&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=38444d" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://streak-stats.demolab.com?user=PTP063&theme=tokyonight&hide_border=false&border_radius=8&border_color=38444d" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ## 🎓 Education
