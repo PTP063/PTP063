@@ -81,51 +81,16 @@ I'm a **backend and full-stack engineer** passionate about building **scalable, 
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
 
-### 1. 🏛️ **Payment/Wallet Ledger API**
-> Concurrency-safe fund transfers with idempotency and zero double-spends
+I'm actively building production-grade backend systems. My focus is on:
 
-- **Stack:** FastAPI, PostgreSQL, Redis, Docker, JWT Auth
-- **Key Features:** 
-  - Immutable double-entry ledger model
-  - Row-level database locking for concurrent safety
-  - Idempotency-key middleware for guaranteed single execution
-  - Rate limiting with Redis token bucket
-  - Full pytest coverage
-- **What it proves:** Understanding of financial systems, transactions, concurrency control, and production-grade API design
-- **Deployed:** Live on Render / Railway free tier
+- **Scalable APIs** with FastAPI, Node.js, and Express.js
+- **Database design** and optimization with PostgreSQL and MongoDB
+- **System architecture** emphasizing reliability, concurrency, and performance
+- **Dockerized deployments** for consistency across environments
 
----
-
-### 2. 🔗 **URL Shortener with Real-Time Analytics**
-> High-traffic link shortening service with caching and analytics
-
-- **Stack:** FastAPI, PostgreSQL, Redis, React.js, Docker
-- **Key Features:**
-  - Base62 short-code generation with collision handling
-  - Redis caching for hot URLs (99%+ cache hit on top links)
-  - Async click-event logging (doesn't block redirect response)
-  - Aggregated analytics endpoint (clicks by day, referrer, etc.)
-  - Per-API-key rate limiting with token bucket
-- **What it proves:** Caching patterns, read-heavy system design, async processing, and real-time aggregation
-- **Deployed:** Live on Render / Railway free tier
-
----
-
-### 3. 🔄 **Webhook Delivery System with Retry Logic**
-> Production-grade webhook dispatcher with exponential backoff and dead-letter queues
-
-- **Stack:** FastAPI, PostgreSQL, APScheduler, Docker, HMAC signing
-- **Key Features:**
-  - At-least-once delivery semantics
-  - Exponential backoff retry policy (1m → 5m → 30m → 2h)
-  - Dead-letter queue for exhausted retries
-  - HMAC request signing for authenticity (Stripe-style)
-  - Observable delivery status API for debugging
-  - Background worker for async delivery
-- **What it proves:** Reliability patterns, async job processing, failure handling, and real-world SaaS architecture
-- **Deployed:** Live on Render / Railway free tier
+Check out my [GitHub repositories](https://github.com/PTP063) for code samples and ongoing work.
 
 ---
 
