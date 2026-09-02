@@ -1,51 +1,192 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prateek+T+P+👋;Fullstack+Developer;Machine+Learning+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1A3C5E&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Prateek+T+P+👋;Backend+Developer+%26+Full-Stack+Engineer;Building+Production-Grade+Systems" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate developer from India building intelligent, scalable, and production-grade applications.</h3>
+<h3 align="center">📍 Bengaluru, India | Final Year @ JSSATEB | Open to Internships & Full-Time Roles</h3>
 
 <div align="center">
   <a href="mailto:prateektp007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/prateek-tp">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PTP063">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 About Me
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
+I'm a **backend and full-stack engineer** passionate about building **scalable, production-grade systems** that solve real problems. With hands-on experience in FastAPI, Node.js, PostgreSQL, and Docker, I focus on **clean architecture, performance optimization, and AI-driven products**.
 
-### Backend & Databases
+**What I'm looking for:** Backend engineering internships and full-time roles where I can contribute to systems that handle scale, reliability, and user impact.
+
+---
+
+## 🛠️ Technical Stack
+
+### 🔧 Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
+</p>
+
+### 💾 Databases & Data
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### AI & Architecture
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Asyncio-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### DevOps & Tools
+### 🤖 Systems & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/System%20Design-333333?style=for-the-badge&logo=diagram&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Async%20Processing-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="Async Processing" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF5733?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+</p>
+
+### 🚀 DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### 📚 Core Computer Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge&logo=bookstack&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS" />
 </p>
 
 ---
 
+## 📁 Featured Projects
+
+### 1. 🏛️ **Payment/Wallet Ledger API**
+> Concurrency-safe fund transfers with idempotency and zero double-spends
+
+- **Stack:** FastAPI, PostgreSQL, Redis, Docker, JWT Auth
+- **Key Features:** 
+  - Immutable double-entry ledger model
+  - Row-level database locking for concurrent safety
+  - Idempotency-key middleware for guaranteed single execution
+  - Rate limiting with Redis token bucket
+  - Full pytest coverage
+- **What it proves:** Understanding of financial systems, transactions, concurrency control, and production-grade API design
+- **Deployed:** Live on Render / Railway free tier
+
+---
+
+### 2. 🔗 **URL Shortener with Real-Time Analytics**
+> High-traffic link shortening service with caching and analytics
+
+- **Stack:** FastAPI, PostgreSQL, Redis, React.js, Docker
+- **Key Features:**
+  - Base62 short-code generation with collision handling
+  - Redis caching for hot URLs (99%+ cache hit on top links)
+  - Async click-event logging (doesn't block redirect response)
+  - Aggregated analytics endpoint (clicks by day, referrer, etc.)
+  - Per-API-key rate limiting with token bucket
+- **What it proves:** Caching patterns, read-heavy system design, async processing, and real-time aggregation
+- **Deployed:** Live on Render / Railway free tier
+
+---
+
+### 3. 🔄 **Webhook Delivery System with Retry Logic**
+> Production-grade webhook dispatcher with exponential backoff and dead-letter queues
+
+- **Stack:** FastAPI, PostgreSQL, APScheduler, Docker, HMAC signing
+- **Key Features:**
+  - At-least-once delivery semantics
+  - Exponential backoff retry policy (1m → 5m → 30m → 2h)
+  - Dead-letter queue for exhausted retries
+  - HMAC request signing for authenticity (Stripe-style)
+  - Observable delivery status API for debugging
+  - Background worker for async delivery
+- **What it proves:** Reliability patterns, async job processing, failure handling, and real-world SaaS architecture
+- **Deployed:** Live on Render / Railway free tier
+
+---
+
+## 🏆 Achievements
+
+**🥉 3rd Place — College Coding Competition (2024)**  
+Solved 5 algorithmic problems under timed constraints using Data Structures and Algorithms (DSA), ranking in the top 3 among 100+ participants.
+
+**🎓 Core Member — GDG on Campus, JSSATEB (2023–Present)**  
+- Organised 3 technical workshops for 80+ students
+- Represented the chapter at 2 inter-college hackathons
+- Built community around open-source and modern development practices
+
+**💻 Open-Source Contributor (2023–Present)**  
+Contributed bug fixes, features, and documentation to 4+ public GitHub repositories via pull requests and code review.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PTP063&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTP063&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Information Science and Engineering**  
+JSS Academy of Technical Education, Bengaluru, Karnataka  
+Expected May 2027 | CGPA: 8.4 / 10
+
+**Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks, Object-Oriented Programming, Information Security, System Design
+
+---
+
+## 🚀 What I'm Working On
+
+- Building production-grade backend systems with FastAPI and PostgreSQL
+- Deepening expertise in System Design, Async Patterns, and Distributed Systems
+- Contributing to open-source projects
+- Preparing for backend engineering internships and full-time roles
+
+---
+
+## 💬 Let's Connect!
+
+I'm always eager to discuss backend engineering, system design, or interesting technical challenges. Feel free to reach out:
+
+<div align="center">
+  <a href="mailto:prateektp007@gmail.com">prateektp007@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/prateek-tp">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/PTP063">GitHub</a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PTP063&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <br/>
+  <b>Happy Coding! 🚀</b>
+</div>
